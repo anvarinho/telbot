@@ -1,3 +1,3 @@
 # Git and GitHub
 
-Crash Course
+Telegram Bot for Lash Maker
